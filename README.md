@@ -1,60 +1,12 @@
 <h3 align="center">Mini Java Compiler</h3>
 
-  <p align="center">
-    A mini java compiler.
-    <br />
-    <a href="https://github.com/Azer-ch/Compilation"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/Azer-ch/Compilation/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Azer-ch/Compilation">Request Feature</a>
-  </p>
 </div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li>
-    <a href="#demo">Demo</a>
-    </li>
-    <li>
-    <a href="#code-generation">Code generation</a>
-    </li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
 A mini Java compiler , built using Flex and Yacc (also known as Lex and Bison) , is a project that involves implementing a subset of the Java language using the Flex lexical analyzer and Yacc parser generator.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
-
-- [![Yacc][Yacc]][Yacc-url]
-- [![Flex][Flex]][Flex-url]
-- [![Python][Python]][Python-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
